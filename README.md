@@ -1,3 +1,3 @@
 # CV-Resume
 My First Commit.
-hey fam how you doinnn
+hey fam how you doin
