@@ -1,3 +1,3 @@
 # CV-Resume
 My First Commit..
-firds t omit let me 
+firds t omit 
