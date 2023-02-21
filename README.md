@@ -1,3 +1,3 @@
 # CV-Resume
 My First Commit. .
-have to ,u forst commint
+have to ,u forst 
